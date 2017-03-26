@@ -1,0 +1,2 @@
+# KedulBot
+Cerita Bang Kedul
